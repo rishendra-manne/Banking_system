@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rishendra-manne
-- 👀 I’m interested in different coding languages
+- 👀 I’m interested in data structures
 - 🌱 I’m currently learning python language
 - 📫 You can reach me by my email:mrrishendra@gmail.com
